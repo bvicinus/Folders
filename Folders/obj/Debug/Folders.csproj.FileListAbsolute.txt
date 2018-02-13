@@ -1,0 +1,9 @@
+c:\users\brandon vicinus\source\repos\Folders\Folders\obj\Debug\Folders.csprojResolveAssemblyReference.cache
+c:\users\brandon vicinus\source\repos\Folders\Folders\obj\Debug\Folders.Properties.Resources.resources
+c:\users\brandon vicinus\source\repos\Folders\Folders\obj\Debug\Folders.csproj.GenerateResource.Cache
+c:\users\brandon vicinus\source\repos\Folders\Folders\obj\Debug\Folders.csproj.CoreCompileInputs.cache
+c:\users\brandon vicinus\source\repos\Folders\Folders\bin\Debug\Folders.exe.config
+c:\users\brandon vicinus\source\repos\Folders\Folders\bin\Debug\Folders.exe
+c:\users\brandon vicinus\source\repos\Folders\Folders\bin\Debug\Folders.pdb
+c:\users\brandon vicinus\source\repos\Folders\Folders\obj\Debug\Folders.exe
+c:\users\brandon vicinus\source\repos\Folders\Folders\obj\Debug\Folders.pdb
